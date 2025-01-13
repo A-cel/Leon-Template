@@ -236,7 +236,7 @@ html{
 /*End Header*/
 /*Start Landing*/
 .landing {
-  background-image: url(./Images/pexels-lastly-772803CCC.jpg);
+  background-image: url(../Images/pexels-lastly-772803CCC.jpg);
   background-size: cover;
   /* background-position: bottom; */
   height: calc(100vh - 64px);
